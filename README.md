@@ -1,2 +1,2 @@
 # 01-python-basics
-Python Basics 01
+01-learning-python
